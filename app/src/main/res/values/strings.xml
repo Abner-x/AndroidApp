@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application2</string>
+    <string name="a">TextView</string>
+    <string name="text">Happy Birthday</string>
+    <string name="textview">Fahrenheit</string>
+    <string name="edit">input</string>
+    <string name="output">output</string>
+    <string name="confirm">confirm</string>
+
+</resources>

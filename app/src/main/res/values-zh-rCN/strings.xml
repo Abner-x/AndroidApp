@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application2</string>
+    <string name="a">啊</string>
+    <string name="text">Happy Birthday</string>
+    <string name="textview">华氏温度</string>
+    <string name="edit">请输入摄氏温度</string>
+    <string name="output">output</string>
+    <string name="confirm">confirm</string>
+</resources>
